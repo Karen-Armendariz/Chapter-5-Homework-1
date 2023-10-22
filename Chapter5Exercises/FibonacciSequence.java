@@ -1,5 +1,13 @@
 package Chapter5Exercises;
-
+/**
+ * @class: FibonacciSequence
+ *@author: Karen Armendariz
+ *@version: 1.0
+ *@written on: October 9, 2023
+ *@Course: ITEC 2140, Section 13
+ *description: This program will accept a user input and return a Fibonacci Sequence
+ * equal to that input in length.
+ */
 import java.util.Scanner;
 
 public class FibonacciSequence
